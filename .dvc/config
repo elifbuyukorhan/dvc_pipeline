@@ -1,0 +1,2 @@
+['remote "dvc-pipeline-remote"']
+    url = /tmp/dvc-pipeline-storage
