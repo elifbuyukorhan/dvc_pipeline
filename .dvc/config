@@ -1,4 +1,2 @@
-[core]
-    remote = dvc-pipeline-remote
 ['remote "dvc-pipeline-remote"']
     url = /tmp/dvc-pipeline-storage
