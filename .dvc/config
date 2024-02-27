@@ -1,0 +1,4 @@
+[core]
+    remote = yolov7-remote
+['remote "yolov7-remote"']
+    url = /tmp/yolov7-storage
