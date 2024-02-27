@@ -1,5 +1,6 @@
 outs:
-- md5: 770cac903481fdeba81cc42962478f6a.dir
-  size: 19273046
-  nfiles: 1171
+- md5: 004e66d032692643c552d3c37f31c292.dir
+  size: 18265452
+  nfiles: 974
   path: CAMEL_unified
+  hash: md5
