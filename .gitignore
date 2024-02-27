@@ -1,2 +1,5 @@
 /yolov7
 /CAMEL_unified
+/mlartifacts
+/mlruns
+.vscode
